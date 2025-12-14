@@ -1,1 +1,84 @@
+Cybersecurity Fundamentals
 
+1. What is Cybersecurity?
+Its the practice of protecting SYSTEMS, networks AND data from attacks, unauthorized access or damage. Not only preventing attacks but also 
+to ensure that systems remain reliable, functional and secure even when under threat.
+
+Cybersecurity involves:
+> Securing devices like computers, smartphones, and servers
+> Protecting networks from unauthorized access
+> Preventing data breaches or leaks
+> Monitoring and responging  to threats in real-time
+
+==========================================================
+
+2. Why Cybersecurity is Important?
+As technology advances, the risk of cyberattacks increases. Personal data, business information and even national security can be at risk.
+Cybersecurity is necessary to ensure privacy, integrity and availability of information and systems.
+
+Key points:
+> Cybercrime is on the rise
+> Personal and corporate data breaches can lead to significant financial loss and reputation damage
+> Cybersecurity also ensures confidence in digital systems, which is essential for the economy
+
+==========================================================
+
+3. Core Concepts in Cybersecurity
+Confidentiality, Integrity and Availability (CIA Triad)
+
+The CIA Triad is the foundational model for understanding cybersecurity.
+> Confidentiality: Ensuring that data is accessible only to authorized individuals. Encryption is a common method for ensuring confidentiality
+> Integrity: Ensuring that data remains unaltered and accurate. Hashing is often used to ensure
+> Availability: Ensuring that information and systems are accessible when needed. Backup systems, redundancy, and failover techniques are exam
+ples of availability measures
+
+Threats, Vulnerabilities and Risks
+> Threat: A potential cause of harm. Example: Malware; a Hacker
+> Vulnerability: A weakness in a system that can be exploited by a threat. Example: Unpatched software
+> Risk: The likelihood of a threat exploiting a vulnerability. Risk is typically calculated as Threat x Vulnerability
+
+==========================================================
+
+4. Types of Cybersecurity Attacks
+There are various types of cyberattacks, each designed to exploit different vulnerabilities.
+
+> Malware: SOFTWARE designed to HARM or EXPLOIT a system, such as viruses, worms, and trojans.
+> Phishing: A technique used to trick users into disclosing sensitive information like passwords.
+> Denial of Servise (DoS): Attacks that overwhelm systems, causing them to become unavailable to users.
+> Man-in-the-middle (MitM): Intercepting and altering communications between two parties without them knowing.
+
+==========================================================
+
+5. Types of Hackers
+
+> White Hat Hackers: Ethical hackers who test and improve security.
+> Black Hat Hackers: Cybercriminals who exploit vulnerabilities for malicious purposes.
+> Gray Hat Hackers: Hackers who operate in a legal gray area, sometimes testing vulnerabilities without malicious intent, but without authorization
+
+==========================================================
+
+6. Ethical Hacking
+Ethical hacking is the practice of TESTING SYSTEMS for vulnerabilities with EXPLICIT PERMISSION from the owner.
+The main goal is to identigy weaknesses so they can be fixed before they are exploited by malicious hackers.
+
+> Penetration Testing (Pen Testing): A controlled and authorized attack on a system to find vulnerabilities.
+> Red Teaming: Simulating a adversary's actions to assess the system's security posture.
+
+==========================================================
+
+7. Defensive Security vs Offensive Security
+
+> Offensive Security: Also known as RED TEAMING, involves actively probing systems for vulnerabilities, much like a hacker would. This includes
+penetration testing and exploiting weaknesses in a controlled manner.
+> Defensive Security: Also known as BLUE TEAMING, involves defending systems from attacks by implementing security measures such as firewalls, 
+intrusion detection systems and secure configurations.
+
+==========================================================
+
+8. The Role of Cybersecurity in Daily Life
+
+> Personal Security: Protects your data, such as passwords, social media profiles and banking information.
+> Corporate Security: Protects businesses from data breaches, financial losses and legal consequences.
+> National Security: Secures infraestructure such as power grids, transportation systems and defense networks.
+
+Cybersecurity has evolved into a critical aspect of modern society, as more and more personal, professional and governmental data is digitized.
